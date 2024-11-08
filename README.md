@@ -46,6 +46,6 @@
 
 ###
 
-Gumball Character Configurator
-:-------------------------:
-<a href="https://github.com/D3mh4/GumballCharacterConfigurator"><img src="https://github.com/D3mh4/GumballCharacterConfigurator/blob/main/GumballCharacterConfigurator.jpg" width="400"></a>
+Gumball Character Configurator <em>(HTML/CSS/JS)</em> | Forum Jeunesse de Saint-Michel <em>(CMS WIX)</em>
+:-------------------------:|:-------------------------:
+<a href="https://github.com/D3mh4/GumballCharacterConfigurator"><img src="https://github.com/D3mh4/GumballCharacterConfigurator/blob/main/GumballCharacterConfigurator.jpg" width="400"></a> | <a href="https://www.fjsm.ca"><img src="https://i.ibb.co/wCCc08k/FJSM.jpg" width="400"></a>
