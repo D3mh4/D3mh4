@@ -21,9 +21,14 @@
   <em>DEC in Multimedia Integration Techniques</em> | 2022 — 2025
 </p>
 
-<h2 align="left">📖 About Me</h2>
+<p align="left">
+  <strong>📍 York University - Glendon Campus</strong><br>
+  <em>English Immersion Certificate (Explore Program)</em> | Summer 2026
+</p>
 
 ###
+
+<h2 align="left">📖 About Me</h2>
 
 <p align="left">
   I am a <strong>Software Engineering student</strong> at École de technologie supérieure (ÉTS) with a background in <strong>Multimedia Integration</strong>. My journey is defined by a unique blend of technical rigor and creative vision.
@@ -45,8 +50,6 @@
 
 <h2 align="left">🛠️ Skillset</h2>
 
-###
-
 <h3 align="left">Languages & Core</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,cs,cpp,php,python,bash" height="40" alt="programming languages" />
@@ -54,17 +57,15 @@
 
 <h3 align="left">Web & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,jquery,django" height="40" alt="web technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,nodejs,jquery,django" height="40" alt="web technologies" />
 </div>
 
 <h3 align="left">Databases & Tools</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,vite" height="40" alt="databases and tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,docker,vite" height="40" alt="databases and tools" />
 </div>
 
 <h3 align="left">Creative & Gaming</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unreal,unity,ps,pr,ae,ai,figma" height="40" alt="creative tools" />
 </div>
-
-###
