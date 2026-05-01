@@ -57,7 +57,7 @@
 
 <h3 align="left">Web & Frameworks</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,nodejs,jquery,django" height="40" alt="web technologies" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,jquery,django" height="40" alt="web technologies" />
 </div>
 
 <h3 align="left">Databases & Tools</h3>
