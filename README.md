@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README_FR.md">🇫🇷 Français</a> | <b>🇬🇧 English</b>
+</p>
+
+###
+
 <h1 align="left">👋 Hi, I'm Ahmed El Moudden</h1>
 
 ###
